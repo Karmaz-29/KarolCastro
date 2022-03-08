@@ -7,3 +7,4 @@
 * Escuchar música.
 * Aprender idiomas.
 * Leer comics.
+* Ver peliculas y series.
